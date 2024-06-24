@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 20px;
+}
+
+.certificate {
+  background-color: #fff;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border: 2px solid #000;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.info {
+  text-align: center;
+}
+
+.picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.material {
+  text-align: center;
+}
+
+.material ul {
+  list-style-type: none;
+}
+
+section h3 {
+  border-bottom: 2px solid #000;
+  padding-bottom: 5px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid #000;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+footer {
+  text-align: center;
+  padding-top: 10px;
+  border-top: 1px solid #000;
+  color: #555;
+}
